@@ -35,4 +35,8 @@ if distancia_percorrida <= distancia_semaforos:
     tempo_total =  tempo_aceleracao + tempo_velocidade_constante
 
 else:
-    tempo_total2 = math.sqrt(2 * distancia_semaforos / aceleracao)
+    tempo_total = math.sqrt(2 * distancia_semaforos / aceleracao)
+
+tempo_abertura = tempo_total - 3
+print("Tempo total até o próximo semáforo", tempo_total, "segundos")
+print("O próximo semáforo deve abrir", tempo_abertura, "segundos após o semáforo anterior")
