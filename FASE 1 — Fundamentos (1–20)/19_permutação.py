@@ -1,4 +1,6 @@
-'''Escreva um programa que permute o valor de duas variáveis inteiras'''
+"""
+Escreva um programa que permute o valor de duas variáveis inteiras
+"""
 
 a = int(input("Digite o valor de a:"))
 b = int(input("Digite o valor  de b:"))

@@ -1,4 +1,6 @@
-''' Solicitar a idade de uma pessoa e informar na tela a idade em anos, meses e dias'''
+""" 
+Solicitar a idade de uma pessoa e informar na tela a idade em anos, meses e dias
+"""
 
 # pedir idade
 # validar entrada

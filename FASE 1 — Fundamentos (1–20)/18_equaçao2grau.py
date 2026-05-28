@@ -1,4 +1,6 @@
-'''Construa um programa para calcular as raizes de uma equação do segundo grau(ax^2 + bx + c = 0), sendo que o valores a,b,c são fornecidos pelo usário(considere que a equação possui duas raizes reais).'''
+"""
+Construa um programa para calcular as raizes de uma equação do segundo grau(ax^2 + bx + c = 0), sendo que o valores a,b,c são fornecidos pelo usário(considere que a equação possui duas raizes reais).
+"""
 
 import math
 

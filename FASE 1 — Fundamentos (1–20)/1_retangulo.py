@@ -1,4 +1,6 @@
-''' Dado o tamanho da base e da altura de um retângulo, calcular a sua área e o seu perímetro '''
+""" 
+Dado o tamanho da base e da altura de um retângulo, calcular a sua área e o seu perímetro 
+"""
 
     # pedir tamanho da base
     # pedir altura

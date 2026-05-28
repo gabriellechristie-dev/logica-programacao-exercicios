@@ -1,5 +1,6 @@
-''' Ler um número inteiro e exibir o seu sucessor. '''
-
+"""
+Ler um número inteiro e exibir o seu sucessor. 
+"""
 # pedir valor 
 # validar entrada
 # calcular sucessor / sucessor = numero +  1

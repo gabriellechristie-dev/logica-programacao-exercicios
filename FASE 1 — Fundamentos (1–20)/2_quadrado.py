@@ -1,4 +1,6 @@
-''' Dado o tamanho do lado de um quadrado, calcular a área e o perímetro do mesmo. '''
+"""
+Dado o tamanho do lado de um quadrado, calcular a área e o perímetro do mesmo. 
+"""
 
 # pedir tamanho do lado do quadrado
 # validar entrada

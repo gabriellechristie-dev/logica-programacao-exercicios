@@ -1,4 +1,6 @@
-''' Ler dois números inteiros e exibir o quociente e o resto da divisão inteira entre eles. '''
+"""
+Ler dois números inteiros e exibir o quociente e o resto da divisão inteira entre eles. 
+"""
 
 # pedir primeiro valor 
 # pedir segundo valor

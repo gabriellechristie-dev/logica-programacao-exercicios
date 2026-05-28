@@ -1,4 +1,6 @@
-''' Converter um inteiro informado menor que 32 para sua representação em binário'''
+"""
+Converter um inteiro informado menor que 32 para sua representação em binário
+"""
 
 # pedir numero inteiro menor que 32
 # validar entrada

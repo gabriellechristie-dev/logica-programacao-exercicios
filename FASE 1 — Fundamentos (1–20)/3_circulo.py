@@ -1,4 +1,6 @@
-''' Dado o tamanho do raio de uma circunferência, calcular a área e o perímetro da mesma. '''
+""" 
+Dado o tamanho do raio de uma circunferência, calcular a área e o perímetro da mesma. 
+"""
 
 # pedir valor do raio
 # validação do valor do raio 
