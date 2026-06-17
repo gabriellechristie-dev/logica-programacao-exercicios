@@ -7,7 +7,9 @@ dias_da_semana = ["domingo","segunda","terça","quarta","quinta","sexta","sábad
 
 dia = int(input("Digite um número inteiro: "))
 
-if dias_da_semana[dia - 1]:
-    print(f"Hoje é {dias_da_semana[dia-1]}!")
-else:
+if dia > 7:
     print("Número inválido!")
+    
+else:
+    print(f"Hoje é {dias_da_semana[dia-1]}!")
+    
